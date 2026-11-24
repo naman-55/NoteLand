@@ -1,0 +1,8 @@
+{
+  "name": "NoteLand 3.5.7",
+  "description": "Premium offline-first personal knowledge management with rich notes, infinite canvas, sticky notes, secure vault and smart utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

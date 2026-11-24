@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoteLand</string>
+    <string name="widget_daily_tasks_name">Daily Tasks</string>
+    <string name="widget_daily_tasks_desc">View and check off your daily checklists and scheduled tasks.</string>
+    <string name="widget_reminders_name">Reminders</string>
+    <string name="widget_reminders_desc">Track upcoming and due note reminders at a glance.</string>
+    <string name="widget_collections_name">NoteLand Collections</string>
+    <string name="widget_collections_desc">Multi-tile hub for folders, collections, and quick note creation.</string>
+</resources>

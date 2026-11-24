@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <include domain="database" path="." />
+    <include domain="file" path="." />
+    <include domain="sharedpref" path="." />
+    <exclude domain="file" path="backups" />
+    <exclude domain="sharedpref" path="noteland_vault_prefs.xml" />
+</full-backup-content>
